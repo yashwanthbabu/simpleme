@@ -1,0 +1,6 @@
+# Base Python packages required for project
+
+Django==1.7.4
+gunicorn==19.2.0
+psycopg2==2.5.4
+dj-database-url==0.3.0

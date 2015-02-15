@@ -1,0 +1,5 @@
+# Python packages required for production
+
+-r base.txt
+
+gunicorn==19.2.0
